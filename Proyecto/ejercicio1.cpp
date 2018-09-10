@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-cout <<"Hola mundo";
+cout <<"Hola mundo\n";
+cout <<"Segunda fila";
 return 0;
 }
